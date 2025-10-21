@@ -1,0 +1,16 @@
+{
+  "nav" : {
+    "title" : "Winchin Stone",
+    "social" : {
+      "label" : "github",
+      "name" : "Github Profile",
+      "href" : "https://github.com/win-chin"
+    },
+    {
+      "label" : "twitter",
+      "name" : "Follow me on Twitter",
+      "href" : "https://github.com/win-chin" 
+    }
+  }
+"showSidebar" : true
+}
